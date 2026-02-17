@@ -1,0 +1,22 @@
+{
+  "build/github/Analysis-00.toc": "f7cba94d100fdaf4fbe832a03b7420574193ec37a0d89e6808d2d3cc6156f541",
+  "build/github/EXE-00.toc": "556bdb509e314c8cb4af930064adcdafdba2ee3cb49d92b1a5a89d18f1ffe4b3",
+  "build/github/PKG-00.toc": "4228cd20c9ed4098df05ebeb5c692f5d734dcde5efa16f523744d0415fcfee1e",
+  "build/github/PYZ-00.pyz": "8196c08bce04bc422bbdc6ff2065e6d11749498319e5ec1e4c1dcee6bee7244d",
+  "build/github/PYZ-00.toc": "31cefbb0adccb1f00c862cb3542b0fd6f57744bb2379436f2ebb62f167a5e448",
+  "build/github/base_library.zip": "9d8cf25ae0ef75316d17cec3f69c339ced7df6e849d5990e0d162ffb9d61869c",
+  "build/github/generated-f63d01168119d70f1c264c912f4b70e8e5ab2cdaf6f61ddb97eb24dfd0d1511d.ico": "78b13e82634c7a8c55381a4f48e78f2d2789bb6ab010be06e7cf5049a173832c",
+  "build/github/github.pkg": "0e59fd2eae7f1d5464937cd71f8b4ca15030a838e488be52d816bf145b62d13f",
+  "build/github/localpycs/pyimod01_archive.pyc": "95bc75fb1815443c6a51c4470dc254f44e2de2b66bb7dfd0c13541ff789c69e1",
+  "build/github/localpycs/pyimod02_importers.pyc": "cc024a23c19a0ec13491f67cc7bf4a33c6947439f965d3154b03d46708da0801",
+  "build/github/localpycs/pyimod03_ctypes.pyc": "e6017d5cef7ecb021c243170082978de1d699d1d0c27d2bd1ef221a9a169c69e",
+  "build/github/localpycs/pyimod04_pywin32.pyc": "8956b968293913eaeb67654b56b65a955a4fa06e6179579738c6a460b6e6debb",
+  "build/github/localpycs/struct.pyc": "dc46cdfab7ea5bfd78e20ce81838a7a17666060827028564b0a2de0198aca964",
+  "build/github/warn-github.txt": "1fa58067c54b04a684837698ba76a2a689a9f17ec0acac77b540e0332313b683",
+  "build/github/xref-github.html": "2d7514e50519e4675a450c9d38a1cf3cdda2a48f66258a7ad58e5662c2020675",
+  "crack.py": "e24aba09f1d8c4e1fa638eb58f49e4846f04becf6b68f9989f4daf94f85a8725",
+  "dist/github.exe": "eca11af9e6d1795b11d0c1becf7c3b6ad9fcb60e435304d1f09d112b7e885138",
+  "github.py": "e8acc533d749a0ccefeef30308d0fd5e85574763096bc340a6e9490fa9747820",
+  "github.spec": "70a61242c2e44559ef9260bae67da4cde5ef8d625b90ff9ee0e21c2f0bec0182",
+  "icon.png": "0f5a7c8f6d215f25a09e627db17a9c9535fbe51e5780581b130ce990147e809c"
+}
